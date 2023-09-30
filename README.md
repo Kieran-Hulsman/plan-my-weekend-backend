@@ -1,15 +1,11 @@
 # README
+this is the backend for the plan my weekend project
+here's the deployed site: https://plan-my-weekend.netlify.app
 
-This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
+the website plans an epic weekend itinerary for the city of your choice
+i used Metaphor's API to get real-time data about what's happening in the city from the internet
+i then sent that data to OpenAI's API to plan an weekend itinerary
 
-The app in this repo is deployed at [https://express.onrender.com](https://express.onrender.com).
+if you have any questions, feel free to send me an email: kieran.hulsman@uwaterloo.ca
 
-## Deployment
-
-See https://render.com/docs/deploy-node-express-app or follow the steps below:
-
-Create a new web service with the following values:
-  * Build Command: `yarn`
-  * Start Command: `node app.js`
-
-That's it! Your web service will be live on your Render URL as soon as the build finishes.
+please enjoy!
